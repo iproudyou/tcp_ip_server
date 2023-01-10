@@ -1,4 +1,4 @@
-# tcp_ip
+# TCP/IP
 
 ## Description
 This repository illustrates a simple usage of tcp/ip. \
